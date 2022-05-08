@@ -162,5 +162,5 @@ Amendments, from latest to oldest;
 
 
 Signed,<br>
-[![signature](https://user-images.githubusercontent.com/102462491/167309047-d2b38bcf-6672-400f-ae8e-301239eed647.jpg "Vasek_Stolba")](https://github.com/VasekStolba/-SCPF-V-Foundation-Logging-System/edit/main/Legislation/Criminal%20Procedure.md)<br>
+[![signature](https://user-images.githubusercontent.com/102462491/167309047-d2b38bcf-6672-400f-ae8e-301239eed647.jpg "Vasek_Stolba")](https://github.com/VasekStolba/-SCPF-V-Foundation-Logging-System/blob/main/Legislation/%22Criminal%20Procedure%22%20(A-003).md)<br>
 Vasek_Stolba<br>Office of Ethical Behaviors Chairman
