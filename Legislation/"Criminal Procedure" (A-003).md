@@ -147,7 +147,7 @@ Amendments, from latest to oldest;
   1. This chapter does not modify the chapter 13 in any way.
 
 #### §17 Issuance
-  1. Orders may be issued by authorities of the High, Supreme, or Thaumiel level.
+  1. Orders may be issued by authorities of the Magistrate, High, Supreme, or Thaumiel level.
   2. Orders may be temporary or permanent. Length of the order effectivity is to be specified in the order.
   3. Orders are to be directed to a specific individual or group of individuals. Orders shall not be used for the purpose of or confused with Executive Orders and Directives - in order to prevent this, they can be referred to as "OEB orders".
   4. Orders are used mainly as a punishment to a crime or to prevent a crime in the future.
