@@ -20,7 +20,7 @@ Amendments, from latest to oldest;
 1. Chief Justice means the Office of Ethical Behaviors Chairman.
 2. Foundation Judge means any Office of Ethical Behaviors Judge.
 3. Foundation Magistrate means any Office of Ethical Behaviors Magistrate.
-4. Crime means an action against the law, the foundation, an individual, or group of individuals.
+4. Crime is defined in chapter 1 of title 2 of the Criminal Code (L-003).
 5. (Legal) case means the proceeding of the Office of Ethical Behaviors in response to a complaint.
 6. Complaint means the act to inform the Office of Ethical Behaviors of a crime.
 7. Claimant means an individual or group of individuals issuing the complaint.
