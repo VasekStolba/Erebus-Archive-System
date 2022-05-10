@@ -51,7 +51,8 @@ Amendments, from latest to oldest;
      1. In the case of a group of individuals, the reasonably appointed leader of the group will represent the group in the legal case.
      2. The individual specified in paragraph (i) of this subsection may also appoint up to five additional individuals from the aforementioned group to represent the group in the legal case.
   2. The defendant may request a Office of Ethical Behaviors representative or another certified individual to represent them during the legal case as they wish.
-  3. The defendant has full rights to defend during any case, and must be offered to do so by the presiding judge. Upon such an offer, they are to be given at least 20 hours to respond. If there is no positive response after that timeframe, they are to be dismissed and replaced as per 5(1)(ii) of this title, but may still request to be added as the defendant for the case for the next 72 hours.
+  3. The defendant has full rights to defend during any case where their punishment is capital or terminates any of their positions within a department, and must be offered to do so by the presiding judge. Upon such an offer, they are to be given at least 20 hours to respond. If there is no positive response after that timeframe, they are to be dismissed and replaced as per 5(1)(ii) of this title, but may still request to be added as the defendant for the case for the next 72 hours.
+     1. In cases where the above criterion "any case where their punishment is capital or terminates any of their positions within a department" isn't met, the punishment can be issued without a statement from the defendant, however, must be fully appealable.
 
 #### §4 Third Parties
   1. Defense and Prosecution may request the summon of a third party if there is a reasonable belief that it would legally influence the conclusion of the case.
