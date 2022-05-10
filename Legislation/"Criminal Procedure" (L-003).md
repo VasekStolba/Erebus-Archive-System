@@ -62,7 +62,7 @@ Amendments, from latest to oldest;
      2. If the defense is dismissed, it is to be replaced by a Office of Ethical Behaviors representative.
 
 #### §6 Office of Ethical Behaviors Interests
-  1. The presiding judge of a case must put utmost efforts into making a legal, fair, truthful, and justified outcome of the case.
+  1. The presiding judge of a case must put utmost efforts into ensuring a legal, fair, truthful, and justified legal proceeding and outcome of the case.
   2. An Office of Ethical Behaviors representantive for the defense side must put utmost efforts into ensuring that any possible reasonable interests of the defendant are fulfilled, and reasonable efforts into being informed of the defendant's interests, as long as it is approved by the law, and will not cause any harm or detriment to the representative themselves.
   3. An Office of Ethical Behaviors representantive for the prosecution side must put utmost efforts into ensuring that any possible reasonable interests of the prosecution are fulfilled, and reasonable efforts into being informed of the prosecution's interests, as long as it is approved by the law, and will not cause any harm or detriment to the representative themselves.
   4. No one can represent more than one party during a legal case.
