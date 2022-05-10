@@ -4,7 +4,7 @@ Title: Criminal Code
 
 Level: Supreme
 
-Proposed On: 9th May, 2022
+Proposed On: 10th May, 2022
 Valid From:
 Effecitve From:
 
@@ -20,17 +20,20 @@ Amendments, from latest to oldest;
   1. Office means Office of Ethical Behaviors unless explicitly said otherwise.
   2. Disciplinary Committee means a group of individuals in an organization with the power to issue actions for violations of the organization's internal policies, mostly department High Command teams.
   3. Act means either a legal document, or an action committed by an individual that resulted in a violation of a policy or law.
+  4. Additional punishment is defined as anything specified in section 7 of title 2 other than;
+     1. class E sentence; or
+     2. capital punishments.
   
 #### §3 Applicability of the Act
   1. Title 1 and 2 apply to all parts, systems, and organizations of the foundation.
   2. Title 3 defines what is forbidden by the foundation law, and applies to all parts, systems, and organizations of the foundation.
      1. This does not restrict any organizations from making their own policies in order to issue additional inner punishments for violations of this or other foundation law. However, all punishments must still be ethical.
   
-
 ## Title 2 - General Part
 ### Chapter 1 - Defining Crime
 #### §1 General Definition
-  1. A crime is defined as a forbidden, unethical, or immoral behavior against property, an individual, group of individuals, an organization, the foundation or the foundation's law system.
+  1. A crime is defined as a forbidden, unethical, or immoral behavior or act against property, an individual, group of individuals, an organization, justice, peace, the foundation or the foundation's law system.
+  2. For the purpose of repeated offences or records, an pardoned, expunged, or appealed (record of) crime can no longer be considered a crime.
   
 #### §2 Deciding what is "forbidden", "unethical", and "immoral"
   1. Forbidden means anything that is explicitly prohibited by a law or policy that the individual in question agreed to follow.
@@ -81,7 +84,7 @@ offender.
      12. committed the criminal offence as an organizer, a member of an organized group or a member of a conspiracy.
   
 #### §6 Conditions Preluding Illegality of an Act
-  1. EXTREME NECESSITY - An act otherwise criminal, by which a person repels an impending danger to the foundation, an individual, group of individuals, an organization, or the foundation, shall not be considered criminal.
+  1. EXTREME NECESSITY - An act otherwise criminal, by which a person repels an impending danger to an individual, group of individuals, an organization, or the foundation, shall not be considered criminal.
      1. The above can not apply if such danger could have been repelled otherwise under the given conditions, or if the consequences caused are evidently equally serious or even more serious than the imminent consequence, or if the person threatened by the consequence was obliged to bear it.
   2. NECESSARY DEFENCE - An act otherwise criminal, by which a person averts an impending or progressing attack to an individual, group of individuals, an organization, or the foundation, shall not be considered criminal.
      1. The above can not apply if the defence was obviously grossly disproportionate to the manner of the attack.
@@ -91,7 +94,7 @@ offender.
   4. ADMISSIBLE RISK - An act is not criminal if committed by those who, in accordance with the current state of knowledge and information available to them at the time of their decision-making on taking further procedures, perform a socially beneficial activity as part of their employment, occupation, position or function, by which they imperil or violate an interest protected by the Criminal Code, unless the socially beneficial result could have been achieved otherwise.
   5. AUTHORIZED USE OF A FIREARM - Any usage of a firearm can not be considered a crime if it is used within the limits stated by the Code of Ethics.
   
-### Chapter 3 - Punishments
+### Chapter 3 - Actions
 #### §7 Types of Punishments
   1. For a crime, the office can issue the punishment of
      1. class E sentence;
@@ -107,14 +110,19 @@ offender.
      11. foundation-wide blacklist from any position, function, and rank; or
      12. foundation-wide exile from any position, function, rank, site, group, department, organization, and benefits.
   2. Only punishments as per subsection 1(iii), (iv), (vi), (xi), and (xii) can be permanent.
-  3. 
+  3. This section does not restrict the usage of orders in any way, those are limited by chapter 4 of title 2 of the criminal procedures.
   
 #### §8 Capital Punishments
   1. Punishments as per sections 7(1)(x), (xi), and (xii) are to be considered capital punishments.
   2. Punishments as per section 7(1)(i) lasting for 8 days or more are to be considered capital punishments.
   3. Capital punishments may be issued only by an authority of the High, Supreme, or Thaumiel Level.
   
-### Chapter 4 - Awards
+#### §9 Repeated Offences
+  1. In the case of a repeated offence, the maximum limit of the punishment as per Title 3 can be doubled, and additional punishments are automatically granted.
+     1. In such a case, a Class E Sentence is also automatically granted if not already.
+  2. A "repeated offence" shall be defined as a repeated same or very similar crime.
+  
+#### §10 Awards
   1. Authorities of the Magistrate, High, Supreme, or Thaumiel Level can issue
      1. Medal of Service;
      2. Medal of Honor;
@@ -122,6 +130,129 @@ offender.
   2. Authorities of the Supreme, or Thaumiel Level can issue Medal of Recognition.
   3. Authorities of the High, Supreme, or Thaumiel Level can issue the perks of a "Patreon Supporter" with any of the medals. This action is automatically done with Medal of Recognition as per subsection 2, and can not be separated.
   
-## Title 2 - Special Part
+#### §11 Additional Punishments
+  1. Additional punishments are defined in section 2 of title 1.
+  2. Additional punishments shall be issued upon the consideration of the nature of the crime. *(Editor's note: This means, the office won't get rid of your benefits for some minor trespassing)*
+  
+## Title 3 - Special Part
+### Chapter 1 - Crimes against the foundation, peace, or justice
 #### §1 Contempt of Justice
-  1. Anyone who disregards, refuses, or fails to comply to an order, punishment, or award of the office shall be subject to a Class E Sentence of up to 2 days.
+  1. Anyone who disregards or neglects an order or punishment of the office shall be subject to a Class E Sentence for up to 84 hours, an additional punishment, or both.
+  2. Anyone who refuses an order of the office shall be subject to a Class E Sentence for up to 96 hours, an additional punishment, or both.
+  3. Anyone who misinforms or causes the misinforming of the office shall be subject to a Class E Sentence for up to 36 hours, an additional punishment, or both.
+  4. Anyone who seriously disturbs the legal proceeding by the office shall be subject to a Class E Sentence for up to 36 hours, an additional punishment, or both.
+  5. Anyone who behaves insultingly or disrespectfully towards the office in a legal proceeding shall be subject to an additional punishment.
+  
+#### §2 Conflicts of Interest
+  1. Anyone who violates the rules specified under section 6 of title 2 of the Criminal Procedures (L-003) shall be subject to a Class E Sentence for 24 to 168 hours, an additional punishment, or both.
+  
+#### §3 Disturbing the Peace
+  1. Anyone who commits publically or in a publically accessible place gross indecency or disorderly conduct especially by attacking another, discgracing a human corpse, remains, or historical or cultural memorial or grossly interferes with preparation or course of an organised community event, congregation or ceremony of people, shall be subject to a Class E Sentence for up to 24 hours, an additional punishment, or both.
+  2. Anyone who causes a threat of serious concernment by spreading alarming news that is untrue, shall be subject to a Class E Sentence for up to 24 hours or an additional punishment.
+  3. Anyone who causes another to be reasonably threatened with death, bodily harm or another detriment in such a way that it can raise a reasonable fear shall be subject to a Class E Sentence for up to 36 hours, an additional punishment, or both.
+  
+#### §4 Neglecting Responsibilities
+  1. Anyone who neglects the responsibilities assigned to them or their general or moral responsibilities as a person, and thus causes a detriment or threat of detriment to an organization, operation, event, individual, justice, or the foundation, shall be subject to a Class E Sentence for up to 48 hours, an additional punishment, or both.
+  
+#### §5 Aiding & Abetting
+  1. Anyone who aids, abets, counsels, commands, induces, procures, or causes the commission of a crime shall be subject to the same punishment as the primary offender.
+  2. Anyone who causes an act to be done by themselves or another which would be considered illegal, immoral, or unethical, takes full responsibility of the act.
+     1. A person under such criteria would not take full responsibility if the act was done through another individual that knew or reasonably should have known that the act would be a crime. In such a case, the responsibility of the act falls to both of the individuals.
+  
+#### §6 False Accusation
+  1. Anyone who falsely accuses another of a crime, shall be subject to a Class E Sentence for up to 48 hours, an additional punishment, or both.
+  2. Anyone who falsely accuses another of a crime with the intention to cause an unfair action or other detriment to them shall be subject to a Class E Sentence for up to 72 hours, an additional punishment, or both.
+  
+#### §7 Injustice
+  1. Anyone who willfully, voluntarily, knowingly, out of neglection, or by another criminal act issues an immoral, unethical, illegal, or unfair action to any individual, shall be subject to a Class E Sentence for up to 168 hours, an additional punishment, or both. A capital punishment may also be issued if such a violation causes severe harm to the foundatin, justice, peace, an individual, group of individuals, or an organization.
+  
+#### §8 Disobeying an Order
+  1. Anyone who refuses, disregards, or neglects an order, evacuation protocol, or any other type of authoritive command from
+     1. public safety personnel;
+     2. Office of Ethical Behaviors personnel;
+     3. administrative personnel; or
+     5. Internal Security Division personnel
+  
+  shall be subject to a Class E Sentence for up to 48 hours, an additional punishment, or both.
+  
+#### §9 Obstruction of Site Operations or Personnel
+  1. Anyone who obstructs an administrative, public safety, community service, enforcement, or foundation supported duty shall be subject to a Class E Sentence for up to 48 hours, an additional punishment, or both.
+  2. Anyone who obstructs a site operation, protocol, or other types of foundation supported events shall be subject to a Class E Sentence for up to 24 hours, an additional punishment, or both.
+  3. Anyone who obstructs a site operation, protocol, or other types of foundation supported events and causes detriment to an individual, group of individuals, organization, peace, justice, or the foundation shall be subject to a Class E Sentence for up to 72 hours, an additional punishment, or both.
+  
+#### §10 Rogue
+  1. Anyone who goes rogue within the legal limits of the foundation or a department shall be subject to a capital punishment.
+  
+#### §11 Repeated Offender
+  1. Anyone who commits 3 or more crimes, and with the consideration of the nature of these crimes, may be subject to a capital punishment.
+     1. Under the criteria of this subsection, such a capital punishment must also be deemed fit for the offender by a moral decision.
+  2. Anyone who committed more than 2 crimes in total may be subject to additional length of a Class E Sentence for up to 48 hours or an additional punishment for their future crimes.
+  3. Anyone who committed more than 5 crimes in total shall be subject to a capital punishment.
+  4. This section shall not be mixed up with section 9 of title 2.
+  
+#### §12 Firearm Regulations
+  1. Anyone who violates the firearm regulations as per the Code of Ethics shall be subject to a Class E Sentence for up to 72 hours, or an additional punishment.
+  
+#### §13 Vehicle Regulations
+  1. Anyone who violates the vehicle regulations as per the Code of Ethics may be subject to prohibition of activity, loss of a community service function, position, or rank, blacklist from any execution of a community service function or duty, or all.
+     1. Section 9 of title 2 does not apply to this subsection.
+  2. Anyone who commits the crime specified in subsection 1 (not including 1(i)) without holding an official license from the Office of Ethical Behaviors shall be subject to prohibition of activity, blacklist from any execution of a community service function or duty, Class E Sentence for up to 48 hours, or all.
+  
+#### §14 Evasion
+  1. For the purpose of this section, "authorities" are defined as members of a public service, administrative, or enforcement committee, office, or department.
+  1. Anyone who willingly, knowingly, voluntarily, or out of negligence;
+     1. refuses being questioned, interrogated, apprehended, investigated, detained by the authorities;
+     2. leaves the game or otherwise makes themselves unavailable to be apprehended or otherwise interacted with when being detained, searched for, or chased by the authorities; or
+     3. avoids any off-game communication with the authorities with the intent to avoid a punishment or other action against them;
+  
+  shall be subject to a Class E Sentence for up to 96 hours, an additional punishment, or both.
+  
+#### §15 Interaction with Anomalies
+  1. Anyone who;
+     1. incorrectly, immorally or unethically interacts with an anomaly; or
+     2. interacts with an anomaly otherwise than prescribed by the administration or the Code of Ethics;
+  
+  shall be subject to a punishment of a Class E Sentence for up to 72 hours, an additional punishment, or both.
+  
+  2. Anyone who commits the act specified in subsection 1 of this section and causes severe detriment to an organization, the peace, justice, or the foundation by doing so, shall be subject to a Class E Sentence for up to 130 hours, an additional punishment, or both.
+  
+#### §16 Trespassing
+  1. Anyone who enters any parts of site ECLIPSE or OMEGA without having the access to do as per the administration or the Code of Ethics may be subject to a Class E Sentence for up to 12 hours.
+  2. Anyone who enters any parts of site VANGUARD or the Information Management and Control sector without having the access to do so as per the administration or the Code of Ethics may be subject to a Class E Sentence for up to 24 hours.
+  3. Anyone who enters any parts of site WARHAMMER or OVERLORD without having the access to do so as per the administration or the Code of Ethics shall be subject to a Class E Sentence for up to 48 hours, or an additional punishment.
+  4. Anyone who enters any parts of site GESTALT without having the access to do so as per the administration or the Code of Ethics shall be subject to a capital punishment.
+  5. Anyone who constantly loiters around an area they do not have access to even after being told not to shall be subject to a punishment for section 8 of this title.
+  
+#### §17 Behavior
+  1. Anyone who acts in violation of the Code of Ethics articles regardinh behavior or attire policy may be subject to an additional punishment, a Class E Sentence for up to 12 hours, or both.
+  
+#### §18 Corruption
+  1. Anyone who prioritizes personal interests over an official foundation organization or foundation loaylty, responsibilities, expectations, or moral obligations during any of their administrative duties, decisions, or actions, shall be subject to a Class E Sentence for up to 168 days, an additional punishment, or both.
+  2. Anyone who commits the act specified in subsection 1 of this section and causes severe detriment to an individual, the organization, the peace, justice, a group of individuals, or the foundation itself, shall be subject to a capital punishment.
+  
+#### §19 Attempt to commit a crime
+  1. Anyone who attempts to commit a crime, but fails, shall be subject to three quarters of the punishment for the attempted crime.
+  
+### Chapter 2 - Crimes against an Individual or Organization
+#### §19 Murder
+  1. Anyone who intentionally kills another person shall be subject to a Class E Sentence for up to 50 hours, an additional punishment, or both.
+  2. Preparation is illegal.
+  
+#### §20 Manslaughter
+  1. Whoever intentionally kills another person in strong derangement caused by fear, shock, confusion or another excusable mental motion or as a result of previous morally condemnable conduct of the aggrieved person, shall be subject to a Class E Sentence for up to 36 hours, an additional punishment, or both.
+  
+#### §21 Killing by Negligence
+  1. Whoever causes the death of another person out of negligence, shall be subject to an additional punishment or a Class E Sentence for up to 24 hours.
+  
+#### §22 Assault with a Deadly Weapon & Major Bodily Harm
+  1. Whoever intentionally assaults another with a deadly weapon, or willingly, voluntarily, knowingly, or out of negligence causes major bodily harm to another, shall be subject to a Class E Sentence for up to 12 hours, or an additional punishment.
+  
+#### §23 Assault & Bodily Harm
+  1. Whoever intentionally assaults another, or willignly, voluntarily, knowingly, or out of negligence causes bodily harm to another, may be subject to a Class E Sentence for up to 6 hours or an additional punishment.
+  
+#### §24 Defamation
+  1. Whoever makes a false statement about another capable of significantly threaten their reputation among fellow personnel, especially harm them in employment, disrupt their relations or cause another serious detriment, may be subject to a Class E Sentence for up to 24 hours, or an additional punishment.
+  
+Signed,<br>
+[![signature](https://user-images.githubusercontent.com/102462491/167309047-d2b38bcf-6672-400f-ae8e-301239eed647.jpg "Vasek_Stolba")](https://github.com/VasekStolba/-SCPF-V-Foundation-Logging-System/blob/main/Legislation/%22Criminal%20Procedure%22%20(A-003).md)<br>
+Vasek_Stolba<br>Office of Ethical Behaviors Chairman
