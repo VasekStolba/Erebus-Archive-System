@@ -33,23 +33,24 @@ Amendments, from latest to oldest;
 ### Chapter 1 - Defining Crime
 #### §1 General Definition
   1. A crime is defined as a forbidden, unethical, or immoral behavior or act against property, an individual, group of individuals, an organization, justice, peace, the foundation or the foundation's law system.
-  2. For the purpose of repeated offences or records, an pardoned, expunged, or appealed (record of) crime can no longer be considered a crime.
+  2. For the purpose of repeated offences or records, a pardoned, expunged, or appealed (record of) crime can no longer be considered a crime.
   
 #### §2 Deciding what is "forbidden", "unethical", and "immoral"
   1. Forbidden means anything that is explicitly prohibited by a law or policy that the individual in question agreed to follow.
      1. An individual automatically agrees to all the foundation legislation available to them by being a member of it.
-     2. An individual automatically agrees to any policies of an official organization within the foundation by being a member of it.)
+     2. An individual automatically agrees to any policies of an official organization within the foundation by being a member of it.
      3. Personnel of the "D" Classification are automatically bound to all laws applicable to them, regardless their will.
   2. Unethical and immoral mean anything that is generally recognized as unacceptable, offensive, or bad behavior within the society.
      1. This is decided case by case, and is to be decided only by a magistrate, judge, chairman, or overseer of the Office of Ethical Behaviors.
   3. Unless explicitly stated otherwise, all other contents of this document state what is forbidden and what is not. Unless explicitly stated otherwise, no contents of this document other than sections 1 and 2 modify the applicability of a crime under the criteria of subsection 2 of this section.
   
-#### §3 Retroactivity and Time Applicability
+#### §3 Retroactivity, Time Applicability, and Punishment Possibility
   1. An act shall be a crime only if its criminality has been stipulated by law prior to its
 commission.
   2. Criminality of an act shall be assessed in accordance with the Act effective at the time of
 its commission; it shall only be assessed pursuant to a later Act if it is more favourable to the
 offender.
+  3. No one shall be subject to a punishment by any party in the foundation unless the individual in question committed a crime as defined in this chapter.
   
 ### Chapter 2 - Circumstances
 #### §4 Mitigating Circumstances
