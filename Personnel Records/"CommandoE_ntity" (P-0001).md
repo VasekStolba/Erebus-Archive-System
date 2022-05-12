@@ -9,6 +9,7 @@ Username: CommandoE_ntity
   
   Title | Information
   --- | ---
+  Username | CommandoE_ntity
   ROBLOX ID | 302499813
   Active Punishments | None
   Awards | None
