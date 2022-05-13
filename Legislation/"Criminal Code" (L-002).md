@@ -50,7 +50,7 @@ commission.
   2. Criminality of an act shall be assessed in accordance with the Act effective at the time of
 its commission; it shall only be assessed pursuant to a later Act if it is more favourable to the
 offender.
-  3. No one shall be subject to a punishment by any party in the foundation unless the individual in question committed a crime as defined in this chapter.
+  3. No one shall be subject to a punishment by any party in the foundation unless the individual in question committed a crime as defined in this chapter or authorised by ethical policy.
   
 ### Chapter 2 - Circumstances
 #### §4 Mitigating Circumstances
