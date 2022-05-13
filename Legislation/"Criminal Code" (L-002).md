@@ -225,7 +225,7 @@ offender.
   5. Anyone who constantly loiters around an area they do not have access to even after being told not to shall be subject to a punishment for section 8 of this title.
   
 #### §17 Behavior
-  1. Anyone who acts in violation of the Code of Ethics articles regardinh behavior or attire policy may be subject to an additional punishment, a Class E Sentence for up to 12 hours, or both.
+  1. Anyone who acts in violation of the Code of Ethics articles regarding behavior or attire policy may be subject to an additional punishment, a Class E Sentence for up to 12 hours, or both.
   
 #### §18 Corruption
   1. Anyone who prioritizes personal interests over an official foundation organization or foundation loaylty, responsibilities, expectations, or moral obligations during any of their administrative duties, decisions, or actions, shall be subject to a Class E Sentence for up to 168 days, an additional punishment, or both.
