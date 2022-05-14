@@ -15,7 +15,7 @@ Date of Investigations: 10th - 14th April, 2022
 <p align="center"><i><b> After reviewing all of the relevant <a href="#2-exhibits">exhibits</a>, the office came to the conclusion that the violator designated in <a href="#1-involved-subjects">section 1</a> committed actions specified in the <a href="#violators-actions-against-the-law">subsection</a> below which were found to be in the violation of §0 of the foundation Criminal Code.<br><br>On the basis of that conclusion, the violator was sentenced to the punishment of a Class E sentence for the duration of 24 hours.</i></b><p>
 
 #### Violator's Actions against the Law
-- Defame one of the Security Guard for unreason kill
+- Defame one of the Security Guard for unreasonable kill towards a Class D personnel
 
 ---
 
