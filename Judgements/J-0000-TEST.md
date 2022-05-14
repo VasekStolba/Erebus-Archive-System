@@ -25,7 +25,7 @@ Designation: Violator
 
 Username: VIOLATOR
 ROBLOX ID: 000000
-Personnel Classification: 1
+Personnel Classification: 0
 
 Representing Department: None
 Department Rank: Not Applicable
