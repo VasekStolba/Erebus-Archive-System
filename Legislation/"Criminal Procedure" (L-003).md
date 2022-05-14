@@ -99,7 +99,7 @@ Amendments, from latest to oldest;
 
 ### Chapter 3 - Detainment
 #### §12
-  1. The Office of Ethical Behaviors and Internal Security Division may use the power given to them by other sections of this chapter to restrain an individual or groups of individualsfor up to 48 hours when there is a reasonable suspicion that the individual or group of individuals in question committed or is about to commit a crime.
+  1. The Office of Ethical Behaviors and Internal Security Division may use the power given to them by other sections of this chapter to restrain an individual or groups of individuals for up to 48 hours when there is a reasonable suspicion that the individual or group of individuals in question committed or is about to commit a crime.
      1. The 48 hours period may be extended by another 1-48 hours by an authority of the High Level as per section 9 of this title.
         1. The period specified in section 12(1)(i) of this title may be extended by another 1-48 hours by an authority of the Supreme Level as per section 8 of this title.
      2. The 48 hours period may be extended by another 1-96 hours by an authority of the Supreme Level as per section 8 of this title.
