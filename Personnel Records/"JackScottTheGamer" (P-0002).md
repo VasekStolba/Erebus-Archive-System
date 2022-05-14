@@ -14,4 +14,4 @@ Username: JackScottTheGamer
   Active Punishments | None
   Awards | None
   Records | None
-  Driving License | [DL-0002]
+  Driving License | [DL-0002](https://github.com/VasekStolba/-SCPF-V-Foundation-Logging-System/blob/main/Transportation/Driving%20Licenses/DL-0002.md)
