@@ -23,13 +23,15 @@ Amendments, from latest to oldest;
 4. Crime is defined in chapter 1 of title 2 of the Criminal Code (L-003).
 5. (Legal) case means the proceeding of the Office of Ethical Behaviors in response to a complaint.
 6. Complaint means the act to inform the Office of Ethical Behaviors of a crime.
-7. Claimant means an individual or group of individuals issuing the complaint.
-8. Prosecution means the side of a legal case which argues that an individual or group of individuals accused of a crime is guilty.
-9. Defendant means an individual or group of individuals accused of a crime. A defendant is to be considered apart of the defenses party.
-10. Defendant Representative means any individual representing the defendant in his favor during a legal case.
-11. Victim means an individual or group of individuals affected by the alleged crime.
-12. Presiding Justice means a magistrate or judge in charge of the legal case.
-13. Order means an authoritative command or instruction to an individual, groups of individuals, or an organization.
+7. Claimant means an individual or group of individuals which argues that an individual or group of individuals accused of a crime is guilty.
+8. Claimant's Representative means any individual representing the claimaint in his favor during a legal case.
+9. Prosecution means the claimant and all of their representatives.
+10. Defendant means the accused individual, group of individuals, or organization.
+11. Defendant's Representative means any individual representing the defendant in his favor during a legal case.
+12. Defense means the defendant and all of their representatives.
+13. Victim means an individual or group of individuals affected by the alleged crime.
+14. Presiding Justice means a magistrate or judge in charge of the legal case.
+15. Order means an authoritative command or instruction to an individual, groups of individuals, or an organization.
 
 ## Title 2 - Criminal Procedure
 ### Chapter 1 - Organization of a Legal Case
@@ -42,11 +44,10 @@ Amendments, from latest to oldest;
   2. Complaint can be issued by either one individual, a group of individuals, or an organization.
 
 #### §2 Prosecution
-  1. In the case of a crime against an individual or group of individuals, then the ones affected by the crime are to be in the position of prosecution.
-  2. In the case of a crime against the foundation, then a Office of Ethical Behaviors representative or member of the O5 Council is to be in the position of prosecution.
-  3. Prosecution may request a Office of Ethical Behaviors representative or another certified individual to represent them during the legal case as they wish.
+  1. In the case of a crime against an individual or group of individuals, then the ones affected by the crime are to be in the position of claimaint.
+  2. In the case of a crime against the foundation, then a Office of Ethical Behaviors representative or member of the O5 Council is to be in the position of claimant.
+  3. Claimant may request a Office of Ethical Behaviors representative or another certified individual to represent them during the legal case as they wish.
 
-#### §3 Defense
   1. The individual or group of individuals that allegedly committed a crime will be the defendant during the legal case.
      1. In the case of a group of individuals, the reasonably appointed leader of the group will represent the group in the legal case.
      2. The individual specified in paragraph (i) of this subsection may also appoint up to five additional individuals from the aforementioned group to represent the group in the legal case.
@@ -60,7 +61,7 @@ Amendments, from latest to oldest;
 #### §5 Dismissal
   1. Anyone can be dismissed from the case for misconduct, upon their own request, or for violations of the law which influences the proceeding.
      1. If the prosecution is dismissed, it can either be replaced as per section 2 of this title, or the case may be dismissed.
-     2. If the defense is dismissed, it is to be replaced by a Office of Ethical Behaviors representative.
+     2. If the defendant is dismissed, it is to be replaced by a Office of Ethical Behaviors representative.
 
 #### §6 Office of Ethical Behaviors Interests
   1. The presiding judge of a case must put utmost efforts into ensuring a legal, fair, truthful, and justified legal proceeding and outcome of the case.
