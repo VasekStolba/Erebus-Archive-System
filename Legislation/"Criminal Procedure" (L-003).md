@@ -32,6 +32,7 @@ Amendments, from latest to oldest;
 13. Victim means an individual or group of individuals affected by the alleged crime.
 14. Presiding Justice means a magistrate or judge in charge of the legal case.
 15. Order means an authoritative command or instruction to an individual, groups of individuals, or an organization.
+16. Complainant means the individual that issued the complaint as per subsection 6.
 
 ## Title 2 - Criminal Procedure
 ### Chapter 1 - Organization of a Legal Case
