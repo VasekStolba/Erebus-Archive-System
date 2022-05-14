@@ -10,7 +10,7 @@ Effecitve From: 5th January, 2022
 
 Amendments, from latest to oldest;
 
-Amendment 1: Added article 4 to section 8 defining the Office of Ethical Behaviors. Proposed by the Chairman, approved by The Administrator.
+Amendment 1, 13rd May 2022: Added article 4 to section 8 defining the Office of Ethical Behaviors. Proposed by the Chairman, approved by The Administrator.
 --
 ```
 ## <p align="center"><i><b> BY THE OFFICE OF ETHICAL BEHAVIORS </i></b><p>
