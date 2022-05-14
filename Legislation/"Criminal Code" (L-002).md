@@ -23,6 +23,7 @@ Amendments, from latest to oldest;
   4. Additional punishment is defined as anything specified in section 7 of title 2 other than;
      1. class E sentence; or
      2. capital punishments.
+  5. Organization means any official and approved office, committee, department, division, subdivision, association, or group within the foundation.
   
 #### §3 Applicability of the Act
   1. Title 1 and 2 apply to all parts, systems, and organizations of the foundation.
@@ -112,6 +113,7 @@ offender.
      12. foundation-wide exile from any position, function, rank, site, group, department, organization, and benefits.
   2. Only punishments as per subsection 1(iii), (iv), (vi), (xi), and (xii) can be permanent.
   3. This section does not restrict the usage of orders in any way, those are limited by chapter 4 of title 2 of the criminal procedures.
+  4. What punishments are to be issued for each crime is defined by the title 3 of this code. Acts that are considered crimes because of being immoral or unethical are to be punished by an action that is deemed moral or ethical for the offense.
   
 #### §8 Capital Punishments
   1. Punishments as per sections 7(1)(x), (xi), and (xii) are to be considered capital punishments.
@@ -142,14 +144,14 @@ offender.
   2. Anyone who refuses an order of the office shall be subject to a Class E Sentence for up to 96 hours, an additional punishment, or both.
   3. Anyone who misinforms or causes the misinforming of the office shall be subject to a Class E Sentence for up to 36 hours, an additional punishment, or both.
   4. Anyone who seriously disturbs the legal proceeding by the office shall be subject to a Class E Sentence for up to 36 hours, an additional punishment, or both.
-  5. Anyone who behaves insultingly or disrespectfully towards the office in a legal proceeding shall be subject to an additional punishment.
+  5. Anyone who behaves insultingly or disrespectfully towards the office or any other individual in a legal proceeding shall be subject to an additional punishment.
   
 #### §2 Conflicts of Interest
   1. Anyone who violates the rules specified under section 6 of title 2 of the Criminal Procedures (L-003) shall be subject to a Class E Sentence for 24 to 168 hours, an additional punishment, or both.
   
 #### §3 Disturbing the Peace
-  1. Anyone who commits publically or in a publically accessible place gross indecency or disorderly conduct especially by attacking another, discgracing a human corpse, remains, or historical or cultural memorial or grossly interferes with preparation or course of an organised community event, congregation or ceremony of people, shall be subject to a Class E Sentence for up to 24 hours, an additional punishment, or both.
-  2. Anyone who causes a threat of serious concernment by spreading alarming news that is untrue, shall be subject to a Class E Sentence for up to 24 hours or an additional punishment.
+  1. Anyone who commits publically or in a publically accessible place gross indecency or disorderly conduct especially by attacking another, disgracing a human corpse, remains, or historical or cultural memorial or grossly interferes with preparation or course of an organised community event, congregation or ceremony of people, shall be subject to a Class E Sentence for up to 24 hours, an additional punishment, or both.
+  2. Anyone who causes a threat of serious concernment or other kind of detriment by spreading alarming news that is untrue, shall be subject to a Class E Sentence for up to 24 hours or an additional punishment.
   3. Anyone who causes another to be reasonably threatened with death, bodily harm or another detriment in such a way that it can raise a reasonable fear shall be subject to a Class E Sentence for up to 36 hours, an additional punishment, or both.
   
 #### §4 Neglecting Responsibilities
@@ -183,6 +185,7 @@ offender.
   
 #### §10 Rogue
   1. Anyone who goes rogue within the legal limits of the foundation or a department shall be subject to a capital punishment.
+  2. Anyone who spreads any officially classified information shall be subject to a Class E Sentence for up to 168 hours, additional punishment, capital punishment, or all.
   
 #### §11 Repeated Offender
   1. Anyone who commits 3 or more crimes, and with the consideration of the nature of these crimes, may be subject to a capital punishment.
@@ -232,27 +235,28 @@ offender.
   2. Anyone who commits the act specified in subsection 1 of this section and causes severe detriment to an individual, the organization, the peace, justice, a group of individuals, or the foundation itself, shall be subject to a capital punishment.
   
 #### §19 Attempt to commit a crime
-  1. Anyone who attempts to commit a crime, but fails, shall be subject to three quarters of the punishment for the attempted crime.
+  1. Anyone who attempts to commit a crime, but fails, shall be subject to up to three quarters of the punishment for the attempted crime.
   
 ### Chapter 2 - Crimes against an Individual or Organization
-#### §19 Murder
+#### §20 Murder
   1. Anyone who intentionally kills another person shall be subject to a Class E Sentence for up to 50 hours, an additional punishment, or both.
   2. Preparation is illegal.
   
-#### §20 Manslaughter
-  1. Whoever intentionally kills another person in strong derangement caused by fear, shock, confusion or another excusable mental motion or as a result of previous morally condemnable conduct of the aggrieved person, shall be subject to a Class E Sentence for up to 36 hours, an additional punishment, or both.
+#### §21 Manslaughter
+  1. Anyone who intentionally kills another person in strong derangement caused by fear, shock, confusion or another excusable mental motion or as a result of previous morally condemnable conduct of the aggrieved person, shall be subject to a Class E Sentence for up to 36 hours, an additional punishment, or both.
   
-#### §21 Killing by Negligence
-  1. Whoever causes the death of another person out of negligence, shall be subject to an additional punishment or a Class E Sentence for up to 24 hours.
+#### §22 Killing by Negligence
+  1. Anyone who causes the death of another person out of negligence, shall be subject to an additional punishment or a Class E Sentence for up to 24 hours.
   
-#### §22 Assault with a Deadly Weapon & Major Bodily Harm
-  1. Whoever intentionally assaults another with a deadly weapon, or willingly, voluntarily, knowingly, or out of negligence causes major bodily harm to another, shall be subject to a Class E Sentence for up to 12 hours, or an additional punishment.
+#### §23 Assault with a Deadly Weapon & Major Bodily Harm
+  1. Anyone who intentionally assaults another with a deadly weapon, or willingly, voluntarily, knowingly, or out of negligence causes major bodily harm to another, shall be subject to a Class E Sentence for up to 12 hours, or an additional punishment.
   
-#### §23 Assault & Bodily Harm
-  1. Whoever intentionally assaults another, or willignly, voluntarily, knowingly, or out of negligence causes bodily harm to another, may be subject to a Class E Sentence for up to 6 hours or an additional punishment.
+#### §24 Assault & Bodily Harm
+  1. Anyone who intentionally assaults another, or willignly, voluntarily, knowingly, or out of negligence causes bodily harm to another, may be subject to a Class E Sentence for up to 6 hours or an additional punishment.
   
-#### §24 Defamation
-  1. Whoever makes a false statement about another capable of significantly threaten their reputation among fellow personnel, especially harm them in employment, disrupt their relations or cause another serious detriment, may be subject to a Class E Sentence for up to 24 hours, or an additional punishment.
+#### §25 Defamation
+  1. Anyone who makes a false statement about another capable of significantly threaten their reputation among fellow personnel, especially harm them in employment, disrupt their relations or cause another serious detriment, may be subject to a Class E Sentence for up to 24 hours, or an additional punishment.
+  
   
 Signed,<br>
 [![signature](https://user-images.githubusercontent.com/102462491/167309047-d2b38bcf-6672-400f-ae8e-301239eed647.jpg "Vasek_Stolba")](https://github.com/VasekStolba/-SCPF-V-Foundation-Logging-System/blob/main/Legislation/%22Criminal%20Procedure%22%20(A-003).md)<br>
