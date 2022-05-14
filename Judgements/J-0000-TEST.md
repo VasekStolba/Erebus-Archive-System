@@ -60,7 +60,7 @@ EVIDENCE
 ###### A.2 ~ Reporter's Evidence
 In exhibit A.1, the reporter has submitted video evidence for the investigation. It can be seen in EVIDENCE.
 
-EVIDENCE 2
+EVIDENCE 
 
 ##### Exhibit B
 ```
@@ -74,8 +74,8 @@ Notes: The violator refused to add anything else than B.1 onto the investigation
 The violator has admitted the violation by the words,
 > Alright. I want to get away from the issue so I blame that guard.
 
-This can be seen in EVIDENCE2.<br>
-EVIDENCE
+This can be seen in EVIDENCE 2.<br>
+EVIDENCE 2
 
 ### 3) Notes
 The witness was not interviewed as it was not necessary.
