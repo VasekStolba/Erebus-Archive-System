@@ -5,8 +5,8 @@ Title: Criminal Code
 Level: Supreme
 
 Proposed On: 10th May, 2022
-Valid From:
-Effecitve From:
+Valid From: 14th May, 2022
+Effecitve From: 14th May, 2022
 
 Amendments, from latest to oldest;
 --
