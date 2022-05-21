@@ -3,13 +3,15 @@ File Number: L-002
 Title: Criminal Code
 
 Level: Supreme
+
 Proposed On: 10th May, 2022
 Valid From: 14th May, 2022
 Effecitve From: 14th May, 2022
-
-Amendments, from latest to oldest;
---
 ```
+
+Amendments, from latest to oldest;<br>
+[Amendment A](https://github.com/VasekStolba/-SCPF-V-Foundation-Logging-System/commit/1e97e0ca6dc92a5415e8d3d9883da216c25eb04f), added sections 6B (Exception) to title 2; sections 20 (Perjury), 21 (Property Damage), and 28 (False Restrainment) to title 3.
+
 ## <p align="center"><i><b> BY THE OFFICE OF ETHICAL BEHAVIORS </i></b><p>
 ### Title 1
 #### §1 Introduction
