@@ -3,7 +3,6 @@ File Number: L-002
 Title: Criminal Code
 
 Level: Supreme
-
 Proposed On: 10th May, 2022
 Valid From: 14th May, 2022
 Effecitve From: 14th May, 2022
@@ -24,6 +23,8 @@ Amendments, from latest to oldest;
      1. class E sentence; or
      2. capital punishments.
   5. Organization means any official and approved office, committee, department, division, subdivision, association, or group within the foundation.
+  6. Property includes Class D personnel.
+  7. Public safety personnel means personnel responsible for the safety of the foundation's property and personnel. This includes members of the Security Bureau of Defense and Mobile Task Forces.
   
 #### §3 Applicability of the Act
   1. Title 1 and 2 apply to all parts, systems, and organizations of the foundation.
@@ -85,7 +86,7 @@ offender.
      12. committed multiple crimes in total; or
      12. committed the criminal offence as an organizer, a member of an organized group or a member of a conspiracy.
   
-#### §6 Conditions Preluding Illegality of an Act
+#### §6A Conditions Preluding Illegality of an Act
   1. EXTREME NECESSITY - An act otherwise criminal, by which a person repels an impending danger to an individual, group of individuals, an organization, or the foundation, shall not be considered criminal.
      1. The above can not apply if such danger could have been repelled otherwise under the given conditions, or if the consequences caused are evidently equally serious or even more serious than the imminent consequence, or if the person threatened by the consequence was obliged to bear it.
   2. NECESSARY DEFENCE - An act otherwise criminal, by which a person averts an impending or progressing attack to an individual, group of individuals, an organization, or the foundation, shall not be considered criminal.
@@ -95,6 +96,16 @@ offender.
      2. The above subsection can not apply if the act also affects interests of the foundation, this includes disturbing the public order or peace. *(Editor's note: this means, no, you can not go up to a person and shoot them up, even if they agree to it)*
   4. ADMISSIBLE RISK - An act is not criminal if committed by those who, in accordance with the current state of knowledge and information available to them at the time of their decision-making on taking further procedures, perform a socially beneficial activity as part of their employment, occupation, position or function, by which they imperil or violate an interest protected by the Criminal Code, unless the socially beneficial result could have been achieved otherwise.
   5. AUTHORIZED USE OF A FIREARM - Any usage of a firearm can not be considered a crime if it is used within the limits stated by the Code of Ethics.
+  
+#### §6B Exceptions
+  1. No personnel shall be subject to a punishment for an act that they were obligated or forced to commit. In such a case, the one that makes such an obligation or forces the act shall be held liable.
+     1. This subsection does not apply if the individual could have fulfilled the obligation legally.
+  2. Public safety personnel in execution of their duties may be exempt from section 21 of title 3 of this code if the property;
+     1. attempts to commit or has committed an act that would be considered a crime if committed by a foundation member excluding section 17 of title 3 of this code; or
+     2. attempts to disobey or has disobeyed any security, safety, or restraintment procedures or policies that apply to them.
+  
+  This is to be regulated by the respective organization leaders.
+  3. No member of the Overseer Council shall be punished for any crime that is defined as a crime by section 2(1) of this title excluding sections 1, 2, 6, 7, 10, 11, 18, 20, 27 and the act of grossly interfering with preparation or course of an organised community event, congregation or ceremony of people as per 3(1) of title 3.
   
 ### Chapter 3 - Actions
 #### §7 Types of Punishments
@@ -232,31 +243,41 @@ offender.
   
 #### §18 Corruption
   1. Anyone who prioritizes personal interests over an official foundation organization or foundation loaylty, responsibilities, expectations, or moral obligations during any of their administrative duties, decisions, or actions, shall be subject to a Class E Sentence for up to 168 days, an additional punishment, or both.
-  2. Anyone who commits the act specified in subsection 1 of this section and causes severe detriment to an individual, the organization, the peace, justice, a group of individuals, or the foundation itself, shall be subject to a capital punishment.
+  2. Anyone who commits the act specified in subsection 1 of this section and causes severe detriment to an individual, the organization, the peace, justice, a group of individuals, or the foundation itself by doing so, shall be subject to a capital punishment.
   
 #### §19 Attempt to commit a crime
   1. Anyone who attempts to commit a crime, but fails, shall be subject to up to three quarters of the punishment for the attempted crime.
   
+#### §20 Perjury
+  1. Anyone who makes a false declaration, affirmation, or willfully makes misinterpretation or lies under an oath, affirmation, or declaration, shall be subject to a Class E Sentence of up to 48 hours, an additional punishment, or both.
+  2. Anyone who commits the act described in subsection 1 of this section and causes severe detriment to an individual, an organization, the peace, justice, a group of individuals, or the foundation itself by doing so, may be subject to a capital punishment.
+  
+#### §21 Property Damage
+  1. Anyone who willfully or out of neglection damages, misuses, uses without permission or destructs property belonging to another individual or group of individuals, an organization, or the foundation, shall be subject to a Class E Sentence of up to 50 hours, an additional punishment, or both.
+  2. Anyone who causes severe detriment to an organization or the foundation, its interests, or personnel, by committing the act described in subsection 1 of this section shall be subject to a Class E Sentence of up to 100 hours, a capital punishment, or both.
+  
 ### Chapter 2 - Crimes against an Individual or Organization
-#### §20 Murder
+#### §22 Murder
   1. Anyone who intentionally kills another person shall be subject to a Class E Sentence for up to 50 hours, an additional punishment, or both.
   2. Preparation is illegal.
   
-#### §21 Manslaughter
+#### §23 Manslaughter
   1. Anyone who intentionally kills another person in strong derangement caused by fear, shock, confusion or another excusable mental motion or as a result of previous morally condemnable conduct of the aggrieved person, shall be subject to a Class E Sentence for up to 36 hours, an additional punishment, or both.
   
-#### §22 Killing by Negligence
+#### §24 Killing by Negligence
   1. Anyone who causes the death of another person out of negligence, shall be subject to an additional punishment or a Class E Sentence for up to 24 hours.
   
-#### §23 Assault with a Deadly Weapon & Major Bodily Harm
+#### §25 Assault with a Deadly Weapon & Major Bodily Harm
   1. Anyone who intentionally assaults another with a deadly weapon, or willingly, voluntarily, knowingly, or out of negligence causes major bodily harm to another, shall be subject to a Class E Sentence for up to 12 hours, or an additional punishment.
   
-#### §24 Assault & Bodily Harm
+#### §26 Assault & Bodily Harm
   1. Anyone who intentionally assaults another, or willignly, voluntarily, knowingly, or out of negligence causes bodily harm to another, may be subject to a Class E Sentence for up to 6 hours or an additional punishment.
   
-#### §25 Defamation
+#### §27 Defamation
   1. Anyone who makes a false statement about another capable of significantly threaten their reputation among fellow personnel, especially harm them in employment, disrupt their relations or cause another serious detriment, may be subject to a Class E Sentence for up to 24 hours, or an additional punishment.
   
+#### §28 False Restrainment
+  1. Anyone who restrains another individual by force or equipment whilst not being authorised to do so or to use such equipment by the Criminal Procedures (L-003), shall be subject to a punishment of a Class E Sentence for up to 48 hours, an additional punishment, or both.
   
 Signed,<br>
 [![signature](https://user-images.githubusercontent.com/102462491/167309047-d2b38bcf-6672-400f-ae8e-301239eed647.jpg "Vasek_Stolba")](https://github.com/VasekStolba/-SCPF-V-Foundation-Logging-System/blob/main/Legislation/%22Criminal%20Procedure%22%20(A-003).md)<br>
