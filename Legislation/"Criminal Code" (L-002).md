@@ -101,7 +101,7 @@ offender.
      1. This subsection does not apply if the individual could have fulfilled the obligation legally.
   2. Public safety personnel in execution of their duties may be exempt from section 21 of title 3 of this code if the property;
      1. attempts to commit or has committed an act that would be considered a crime if committed by a foundation member excluding section 17 of title 3 of this code; or
-     2. attempts to disobey or has disobeyed any security, safety, or restraintment procedures or policies that apply to them.
+     2. attempts to disobey or has disobeyed any security, safety, or restrainment procedures or policies that apply to them.
   
   This is to be regulated by the respective organization leaders.
   
