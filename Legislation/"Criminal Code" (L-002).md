@@ -277,9 +277,10 @@ offender.
   
 #### §28 False Restrainment
   1. Anyone who restrains another individual by force or equipment whilst not being authorised to do so or to use such equipment by the Criminal Procedures (L-003), shall be subject to a punishment of a Class E Sentence for up to 48 hours, an additional punishment, or both.
+  2. Anyone who commits the act specified in subsection 1 of this section with the use of force or causes severe detriment by committing the act, shall be subject to a punishment of a Class E Sentence for up to 72 hours, an additional punishment, or both. They can also be charged with section 10 of this title.
   
 ###### Amendments, from latest to oldest<br>
-  1. [Amendment A](https://github.com/VasekStolba/-SCPF-V-Foundation-Logging-System/commit/1e97e0ca6dc92a5415e8d3d9883da216c25eb04f), added sections 6B (Exception) to title 2; sections 20 (Perjury), 21 (Property Damage), and 28 (False Restrainment) to title 3.
+  1. Amendment A, added sections 6B (Exception) to title 2; sections 20 (Perjury), 21 (Property Damage), and 28 (False Restrainment) to title 3.
   
 Signed,<br>
 [![signature](https://user-images.githubusercontent.com/102462491/167309047-d2b38bcf-6672-400f-ae8e-301239eed647.jpg "Vasek_Stolba")](https://github.com/VasekStolba/-SCPF-V-Foundation-Logging-System/blob/main/Legislation/%22Criminal%20Procedure%22%20(A-003).md)<br>
