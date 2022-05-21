@@ -104,6 +104,7 @@ offender.
      2. attempts to disobey or has disobeyed any security, safety, or restraintment procedures or policies that apply to them.
   
   This is to be regulated by the respective organization leaders.
+  
   3. No member of the Overseer Council shall be punished for any crime that is defined as a crime by section 2(1) of this title excluding sections 1, 2, 6, 7, 10, 11, 18, 20, 27 and the act of grossly interfering with preparation or course of an organised community event, congregation or ceremony of people as per 3(1) of title 3.
   
 ### Chapter 3 - Actions
