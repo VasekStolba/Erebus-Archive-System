@@ -195,7 +195,7 @@ offender.
   3. Anyone who obstructs a site operation, protocol, or other types of foundation supported events and causes detriment to an individual, group of individuals, organization, peace, justice, or the foundation shall be subject to a Class E Sentence for up to 72 hours, an additional punishment, or both.
   
 #### §10 Rogue
-  1. Anyone who goes rogue within the legal limits of the foundation or a department shall be subject to a capital punishment.
+  1. Anyone who goes rogue within the foundation or a department shall be subject to a capital punishment.
   2. Anyone who spreads any officially classified information shall be subject to a Class E Sentence for up to 168 hours, additional punishment, capital punishment, or all.
   
 #### §11 Repeated Offender
