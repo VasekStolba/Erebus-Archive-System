@@ -1,4 +1,4 @@
-## Managed by the Office of Ethical Behaviors.
+## Managed by the Office of Human Resources.
 ### Legenda
 
 Designation | Meaning
